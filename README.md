@@ -18,7 +18,7 @@ This task focuses on using Support Vector Machines (SVM) for binary classificati
 
 ---
 
-## 🧪 Libraries Used
+## Libraries Used
 - Python 3.x
 - pandas
 - numpy
